@@ -8,7 +8,8 @@
   NordicPixels
 </h2>
 
-This is a starter application for [framer-motion course](https://octocourses.com/framer-motion/).
+This is a starter application for [framer-motion course](https://youtu.be/yKeqNWm835s?si=1UhMvi7OPDaTb0Pi). 
+
 
 ### Getting started
 
